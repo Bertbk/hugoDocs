@@ -253,8 +253,8 @@ Markdown syntax is simple enough to learn in a single sitting. The following are
 [mdguide]: https://www.markdownguide.org/
 [mdtutorial]: http://www.markdowntutorial.com/
 [Miek Gieben's website]: https://miek.nl/2016/march/05/mmark-syntax-document/
-[mmark]: https://github.com/miekg/mmark
-[mmarkgh]: https://github.com/miekg/mmark/wiki/Syntax
+[mmark]: https://github.com/mmarkdown/mmark
+[mmarkgh]: https://mmark.nl/post/syntax/
 [org]: http://orgmode.org/
 [pandoc]: http://www.pandoc.org/
 [Pygments]: http://pygments.org/
